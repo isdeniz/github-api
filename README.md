@@ -15,5 +15,3 @@
 **issue_release_tag:** release_info,name of the repository,created_at - tag of the current release of the repository when the issue was created \
 **issue_release_date:** release_info,name of the repository,created_at - date of the current release of the repository when the issue was created \
 **issue_release_graph:** issue_info,name of the repository - graph of the number of issues created through the releases of the repository \
-**preprocess:** text - preprocessed version of the text including the following operations: lowercase, remove punctuations, apostropes, numbers, whitespaces, english stopwords, transform into stemmed words \
-**logistic_regression:** dataset as pandas df, columns to be used in the prediction, target variable which will be predicted - confusion matrix, classification report, accuracy of the Logistic Regression classifier
