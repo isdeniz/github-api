@@ -1,3 +1,13 @@
+<h3 align="center">This repository contains functions written in Python to extract repository, issue, release, commit and label data with the GitHub Search API.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 ### Information about functions : input - output
 **created_at:** name of the repository - creation date of the repository \
 **stargazers_count:** name of the repository - number of stars given to the repository \
