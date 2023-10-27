@@ -1,6 +1,6 @@
-<h3 align="center">This repository contains functions written in Python to extract repository, issue, release, commit and label data with the GitHub Search API.</h3>
+<h3 align="center">GitHub Search API Functions</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CThis repository contains functions written in Python to extract repository, issue, release, commit and label data with the GitHub Search API.</h3>
 <p align="left">
 </p>
 
